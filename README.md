@@ -1,4 +1,4 @@
-# json_updater
+# JSON Updater
 
 ARGS:
   DEBUG MODE
