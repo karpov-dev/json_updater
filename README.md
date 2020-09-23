@@ -1,23 +1,23 @@
 # JSON Updater
 
-1. ARGS:
-  DEBUG MODE
-    1) True - start code with args from script
-    2) False - start code with args from terminal (console)
+1) ARGS:
+    DEBUG MODE
+      1) True - start code with args from script
+      2) False - start code with args from terminal (console)
  
-  UPDATE_DICT
-    1) Key - need to change word
-    2) Value - new word
+    UPDATE_DICT
+      1) Key - need to change word
+      2) Value - new word
   
-  AUTO_UPDATE
-    1) True - updating words automaticly
-    2) False - asks user to update each word
+    AUTO_UPDATE
+      1) True - updating words automaticly
+      2) False - asks user to update each word
   
-  FILE_DIR
-    1) Path to dir with file (without file name)
+    FILE_DIR
+      1) Path to dir with file (without file name)
   
-  FILE_NAME
-    1) JSON file name with '*.json'
+    FILE_NAME
+      1) JSON file name with '*.json'
     
 2. CONSOLE ARGS:
   1) --file_dir - file dir without file name
