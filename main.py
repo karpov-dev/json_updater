@@ -14,7 +14,7 @@ FILE_NAME = 'dataFile.json'
 MODE = UPDATE
 NEW_DATE_VALUE = '01'
 AUTO_MODE = False
-CONSOLE_MODE = False
+CONSOLE_MODE = True
 
 
 def find_and_update(data_string, data_path, regex_pattern, substring, auto_mode):
